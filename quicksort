@@ -1,0 +1,5 @@
+package first;
+class quicksort{
+public static void quicksort(Arraylist A){
+}
+}
